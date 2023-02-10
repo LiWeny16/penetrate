@@ -1,8 +1,3 @@
 remote_theme: kitian616/jekyll-TeXt-theme
 
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-remote-theme # 添加这一行
+
